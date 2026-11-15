@@ -44,3 +44,8 @@ Next, I took a pre-trained ResNet-50 model, froze the early feature-extraction l
 1. Clone the repo and install the dependencies:
    ```bash
    pip install torch torchvision pillow numpy tqdm
+
+## Dataset
+
+   Get the Dataset from kaggle:
+   https://www.kaggle.com/datasets/kaggleashwin/vehicle-type-recognition
